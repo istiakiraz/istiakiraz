@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Khoj.com**
 
-- 🌱 I’m currently learning **javascript, react, mongobd, express js, node js**
+- 🌱 I’m currently learning **javascript, react, mongodb, express js, node js**
 
 - 📫 How to reach me **istiakiraz@gmail.com**
 
