@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/istiakiraz" target="blank"><img src="https://img.shields.io/twitter/follow/istiakiraz?logo=twitter&style=for-the-badge" alt="istiakiraz" /></a> </p>
 
-- 🔭 I’m currently working on **Payoo-MFS**
+- 🔭 I’m currently working on **Khoj.com**
 
-- 🌱 I’m currently learning **javascript, react**
+- 🌱 I’m currently learning **javascript, react, mongobd, express js, node js**
 
 - 📫 How to reach me **istiakiraz@gmail.com**
 
