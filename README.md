@@ -1,6 +1,6 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNMI5rE_hpc1hmAJTKgKUic-FYChZQdvxIb1te_uyepIHET8eZbTpDKQhkvFRJAE_Yh3GdB0bRByDrbRAW8WnJ3h0hjFf8EHECLy43JQcAUoWkepjuvutjeT3yLa1hTcpR9J7GKsHMsOsHe9w3j0LkdGlMXodLAiog5UmxxaWsRrfkKjRTOcCgnsXXeqU/s1584/bann.jpg)
 <h1 align="center">Hi 👋, I'm Istiak Iraz</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Passionate Frontend Developer from Bangladesh | Building clean, responsive, and user-centric web applications</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakiraz&label=Profile%20views&color=0e75b6&style=flat" alt="istiakiraz" /> </p>
