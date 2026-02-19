@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istiakiraz&" alt="istiakiraz" /></p>
 
-(https://github-readme-stats.vercel.app/api?istiakiraz=istiakiraz&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=istiakiraz&show_icons=true&theme=dark)
